@@ -35,7 +35,6 @@
   <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlteGhsdWwxem5vc2w0ejlteDd4enRpZHU4ZTFiZzU2dmd5bzRmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" alt="Imagem">
 </p>
 
-## Skills
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
   <h3>Programming Languages</h3>

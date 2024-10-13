@@ -1,6 +1,6 @@
 <!--título-->
 <div id="user-content-toc" style="text-align: center;">
-  <h1><img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="Hello World Animation" style="max-width: 1%; height: auto;"></h1>
+  <h1><img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="Hello World Animation" style="max-width: 1%; height: 250px;"></h1>
 </div>
 
 <!-- Presentation -->

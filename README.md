@@ -1,6 +1,6 @@
 <!--título-->
 <div id="user-content-toc" style="text-align: center;">
-  <h1></h1>
+  <h1><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*6-xhHQ66MVyfuWw5OjuAlw.gif" alt="Hello World Animation" style="max-width: 100%; height: auto;"></h1>
 </div>
 
 <!-- Presentation -->

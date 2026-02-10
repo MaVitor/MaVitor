@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlteGhsdWwxem5vc2w0ejlteDd4enRpZHU4ZTFiZzU2dmd5bzRmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" alt="GIF de Programação">
-</div>
-
-<div align="center">
   <h1>Olá, eu sou o Mateus Vitor! 👋</h1>
 </div>
 

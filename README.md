@@ -3,11 +3,10 @@
 </div>
 
 <p align="center">
-  Atualmente no <b>5º período de Análise e Desenvolvimento de Sistemas</b>, e desde <b>março de 2025</b>, atuo na <b>Controladoria-Geral do Estado do Rio Grande do Norte (CONTROL-RN)</b>.
+  Atualmente no <b>6º período de Análise e Desenvolvimento de Sistemas</b>, e desde <b>março de 2025</b>, atuo na <b>Controladoria-Geral do Estado do Rio Grande do Norte (CONTROL-RN)</b>.
   <br>
-  Meu foco é no desenvolvimento <b>Full Stack</b>, construindo APIs robustas com <b>Django</b> e <b>Django REST Framework</b>, e criando interfaces dinâmicas com <b>React</b> e <b>Angular</b>.
+  Meu foco é no desenvolvimento <b>Full Stack</b>, construindo APIs com <b>Django</b> e <b>Django REST Framework</b>, e criando interfaces com <b>React</b> e <b>Angular</b>.
   <br>
-  Sou um entusiasta de <b>arquitetura limpa</b>, <b>sistemas escaláveis</b> e <b>aprendizado contínuo</b>.
 </p>
 
 
